@@ -1,8 +1,7 @@
-[![MasterHead](https://www.e-marketing.fr/Thematique/cross-canal-1094/breve/developper-une-application-dentreprise-en-5-etapes-329018.htm)]
 <h1 align="center">Hi 👋, I'm Ranto Andrianandraina</h1>
 <h3 align="center">A passionate fullstack and AI developer from Madagascar</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40oninross%2Fdo-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63&psig=AOvVaw0XLnNgkDPwnx7_Gw50TkTE&ust=1713528714645000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiI4f26zoUDFQAAAAAdAAAAABAE" >
+<img align="right" alt="Coding" width="400" src="http://https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranto-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ranto-dev" /> </p>
 
