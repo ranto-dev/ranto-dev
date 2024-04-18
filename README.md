@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranto Andrianandraina</h1>
 <h3 align="center">A passionate fullstack and AI developer from Madagascar</h3>
-
-<img align="right" alt="Coding" width="400" src="http://https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" >
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranto-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ranto-dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranto-dev" alt="ranto-dev" /></a> </p>
