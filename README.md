@@ -5,9 +5,6 @@
 - 🌱 I’m currently learning **Ruby on rails**
 
 - 💬 Ask me about **Python and Ruby**
-
-- 📫 How to reach me **rantoandrianandraina@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/ranto andrianandraina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ranto andrianandraina" height="30" width="40" /></a>
