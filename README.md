@@ -1,4 +1,4 @@
-<img width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCkKoGDxn6IfA8WGTV3Nuz8fD8V0T7j5PDow&s" alt="header image for ranto github profile">
+<img width="100%" src="images/adventure-time.png" alt="header image for ranto github profile">
 
 <h1 align="center">Hi 👋, I'm Ranto Andrianandraina</h1>
 <h4 align="center">I like turning complex ideas into simple, useful tools.</h4>
