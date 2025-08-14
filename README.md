@@ -35,7 +35,7 @@
 <!-- activity streak-stats end -->
 
 <!-- activity github-stats start -->
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: .5rem;">
+<div align="center" style="display: flex; gap: .5rem; align-items: center; justify-content: center;" >
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ranto-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" target="_blank" style="display: block;">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ranto-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400" height="auto">
