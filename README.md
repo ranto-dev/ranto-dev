@@ -30,11 +30,12 @@
 </p>
 <!-- activity graph heroku-app end -->
 
+<!-- activity streak-stats start -->
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ranto-dev&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD5007" style="width: 70%"/></p>
+<!-- activity streak-stats end -->
 
-![]()
-
-<div style="display: flex; flex-direction: row; justify-content: center; gap: .5rem;">
+<!-- activity github-stats start -->
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: .5rem;">
     <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ranto-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" target="_blank" style="display: block;">
         <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ranto-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400" height="auto">
@@ -48,7 +49,4 @@
         </picture>
     </a>
 </div>
-
-### ✍️ Random Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- activity github-stats end -->
