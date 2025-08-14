@@ -32,12 +32,19 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ranto-dev&theme=dark&hide_border=false)
 
-<div style="display: flex; gap: .5rem;">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ranto-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![](https://github-contributor-stats.vercel.app/api?username=ranto-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+<div style="display: flex; flex-direction: row; gap: .5rem;">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ranto-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" target="_blank" style="display: block;">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ranto-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400" height="auto">
+            <img alt="Dashboard stats of @tsirysndr" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranto-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+        </picture>
+    </a>
+      <a href="https://github-contributor-stats.vercel.app/api?username=ranto-dev&limit=5&theme=dark&combine_all_yearly_contributions=true" target="_blank" style="display: block;">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=ranto-dev&limit=5&theme=dark&combine_all_yearly_contributions=true" width="400" height="auto">
+            <img alt="Dashboard stats of @tsirysndr" src="https://github-contributor-stats.vercel.app/api?username=ranto-dev&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+        </picture>
+    </a>
 </div>
 
 ### ✍️ Random Quote
