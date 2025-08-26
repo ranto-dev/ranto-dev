@@ -23,7 +23,8 @@
 
 ### 📊 GitHub Stats:
 
-<!-- activity graph heroku-app start -->
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ranto-dev&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD5007" style="width: 70%"/></p>
+
 <p align="center">
     <a href="https://ossinsight.io/analyze/ranto-dev">
         <picture>
@@ -32,25 +33,3 @@
         </picture>
     </a>
 </p>
-<!-- activity graph heroku-app end -->
-
-<!-- activity streak-stats start -->
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ranto-dev&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD5007" style="width: 70%"/></p>
-<!-- activity streak-stats end -->
-
-<!-- activity github-stats start -->
-<div align="center" style="display: flex; gap: .5rem; align-items: center; justify-content: center;" >
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ranto-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" target="_blank" style="display: block;">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ranto-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="400" height="auto">
-            <img alt="Dashboard stats of @tsirysndr" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranto-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-        </picture>
-    </a>
-      <a href="https://github-contributor-stats.vercel.app/api?username=ranto-dev&limit=5&theme=dark&combine_all_yearly_contributions=true" target="_blank" style="display: block;">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-contributor-stats.vercel.app/api?username=ranto-dev&limit=5&theme=dark&combine_all_yearly_contributions=true" width="400" height="auto">
-            <img alt="Dashboard stats of @tsirysndr" src="https://github-contributor-stats.vercel.app/api?username=ranto-dev&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-        </picture>
-    </a>
-</div>
-<!-- activity github-stats end -->
