@@ -1,17 +1,17 @@
 <img width="100%" src="images/adventure-time.png" alt="header image for ranto github profile">
 
-<h1 align="center">Hi 👋, I'm Ranto Andrianandraina</h1>
-<h4 align="center">I like turning complex ideas into simple, useful tools.</h4>
+<h1 align="center">Hey 👋, I'm Ranto Andrianandraina</h1>
+<h4 align="center">Inventor of digital shortcuts, builder of tomorrow’s tools.</h4>
 
 <br />
 
-🧭 I see technology as a vast, ever-shifting landscape — full of uncharted zones, hidden gems, and unsolved mysteries.<br />
-🌐 The world of the web holds no secrets for me — I master it from front to back.<br />
-💡 I’m not here to follow the map — I’m here to draw new ones.<br />
-🤖 Currently exploring the wild terrains of Machine Learning and intelligent systems. <br />
-🛠️ I build projects like expeditions: with curiosity as fuel, and bugs as obstacles to overcome.<br />
-🌱 I believe every line of code is a step forward — even when the path isn’t clear.<br />
-💬 If you’re also charting unknown digital territory, let’s connect and share the journey.<br />
+🚀 Fullstack developer by trade, creative problem-solver by nature.<br />
+🛠️ I design clever algorithms and build prototypes that make life smoother, work faster, and ideas real.<br />
+🌍 I see the web as a playground — every challenge is a chance to invent, every project a new adventure.<br />
+💡 My passion? Turning complex problems into elegant, practical solutions.<br />
+⚡ I believe in code that empowers, tools that inspire, and sharing knowledge to spark new possibilities.<br />
+🌱 Always learning, always building, always curious.<br />
+💬 If you love innovation, clever hacks, or just want to chat about making life easier with tech — let’s connect!<br />
 
 <picture>
     <img src="example/light.svg" width="95%" alt="activity graph">
@@ -24,7 +24,9 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=ranto-dev&theme=dark" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=ranto-dev&theme=react&hide_border=true" alt="GitHub contribution streak for ranto-dev in react theme" width="75%" />
+</a>
 </p>
 
 <p align="center">
@@ -35,3 +37,10 @@
         </picture>
     </a>
 </p>
+
+<a href="https://github.com/ranto-dev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranto-dev&layout=compact&theme=react&hide_border=true" alt="Most used languages by ranto-dev in react theme" width="49%" />
+</a>
+<a href="https://github.com/ranto-dev">
+    <img src="https://github-readme-stats.vercel.app/api?username=ranto-dev&show_icons=true&theme=react&hide_border=true" alt="GitHub profile stats for ranto-dev in react theme" width="49%" />
+</a>
