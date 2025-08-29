@@ -14,7 +14,7 @@
 💬 If you love innovation, clever hacks, or just want to chat about making life easier with tech — let’s connect!<br />
 
 <picture>
-    <img src="example/light.svg" width="95%" alt="activity graph">
+    <img src="example/dark.svg" width="95%" alt="activity graph">
 </picture>
 
 ### 💻 Tech Stack:
@@ -23,11 +23,11 @@
 
 ### 📊 GitHub Stats:
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=ranto-dev&theme=react&hide_border=true" alt="GitHub contribution streak for ranto-dev in react theme" width="75%" />
-</a>
-</p>
+        <img src="https://streak-stats.demolab.com?user=ranto-dev&theme=react&hide_border=true" alt="GitHub contribution streak for ranto-dev in react theme" width="75%" />
+    </a>
+</p> -->
 
 <p align="center">
     <a href="https://ossinsight.io/analyze/ranto-dev">
