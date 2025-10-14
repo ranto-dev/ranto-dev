@@ -13,13 +13,13 @@
 
 <h2>✨ About me</h2>
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; gap: 2rem;" >
 
   <!-- Liste d'informations -->
   <div style="max-width: 480px; font-family: 'Segoe UI', Arial, sans-serif; font-size: 16px; line-height: 1.6;">
     <ul style="padding: 0; margin: 0; font-family: 'Segoe UI', Arial, sans-serif; font-size: 16px; line-height: 1.7;">
-      <li>🤓 <strong>My name is Ranto</strong></li>
-      <li>👨‍💻 Versatile developer proficient in <strong>Python</strong> and <strong>JavaScript</strong>, with a passion for building great user interfaces.</li>
+      <li>🤓 My name is <strong> Ranto</strong></li>
+      <li>👨‍💻 Creative developer blending <strong>Python</strong> and <strong>JavaScript</strong> to build seamless digital experiences.</li>
       <li>📫 You can reach me by email at <a href="mailto:rantoandrianandraina@gmail. com">rantoandrianandraina@gmail.com</a></li>
     </ul>
   </div>
@@ -34,8 +34,8 @@
 <h2>🚀 Tech Stack</h2>
 <div align="center" style="
   display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+  justify-content: start;
+  align-items: center;
   gap: 18px;
   padding: 10px;
 ">
