@@ -1,11 +1,22 @@
-<div align="center">
-  <h1>Hi stranger! 👋</h1>
-  <p>🚀 Transforming ideas into clean, high-performance code. 💡 Passionate about <b>app development</b>, <b>open source</b>, and <b>continuous learning</b>.</p>
-  <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
-    <img src="https://img.shields.io/badge/Open%20Source-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Badge">
-    <img src="https://img.shields.io/badge/Frontend-blue?style=for-the-badge&logo=react&logoColor=white" alt="Frontend Badge">
-    <img src="https://img.shields.io/badge/Backend-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend Badge">
-    <img src="https://img.shields.io/badge/Mobile-orange?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Badge">
+<div align="center" style="font-family: 'Segoe UI', Roboto, sans-serif;">
+
+  <h1 style="font-size: 2.4em; margin-bottom: 10px;">Hi stranger! 👋</h1>
+  <p style="font-size: 1.1em; max-width: 600px; margin: 0 auto 20px;">
+    🚀 Turning ideas into <b>clean</b>, <b>performant</b> and <b>user-focused</b> software.<br>
+    Passionate about <b>App Development</b>, <b>Open Source</b>, and <b>Continuous Learning</b>.
+  </p>
+
+  <div style="
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 10px;
+  ">
+    <img src="https://img.shields.io/badge/Open%20Source-1e90ff?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Badge" />
+    <img src="https://img.shields.io/badge/Frontend-61dafb?style=for-the-badge&logo=react&logoColor=black" alt="Frontend Badge" />
+    <img src="https://img.shields.io/badge/Backend-4caf50?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend Badge" />
+    <img src="https://img.shields.io/badge/Mobile-fd7e14?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Badge" />
   </div>
 </div>
 
@@ -13,7 +24,7 @@
 
 <h2>✨ About me</h2>
 
-<div style="display: flex; gap: 2rem;" >
+<div>
 
   <!-- Liste d'informations -->
   <div style="max-width: 480px; font-family: 'Segoe UI', Arial, sans-serif; font-size: 16px; line-height: 1.6;">
@@ -63,7 +74,34 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" />
 </div>
 
-### How to contact me
+### 💬 How to contact me
+
+<div align="center" style="margin: 20px 0; font-family: 'Segoe UI', Roboto, sans-serif;">
+
+  <p style="font-size: 1.1em;  margin-bottom: 15px;">
+    Let’s connect and create something awesome together 🚀
+  </p>
+
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/aina iarindranto" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/profile.php?id=100092317658006" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://ranto-dev.vercel.app" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+
+  </div>
+
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juanbelin/juanbelin/output/pacman-contribution-graph-dark.svg">
