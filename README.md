@@ -13,10 +13,17 @@
     justify-content: center;
     margin-top: 10px;
   ">
-    <img src="https://img.shields.io/badge/Open%20Source-1e90ff?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Badge" />
-    <img src="https://img.shields.io/badge/Frontend-61dafb?style=for-the-badge&logo=react&logoColor=black" alt="Frontend Badge" />
-    <img src="https://img.shields.io/badge/Backend-4caf50?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend Badge" />
-    <img src="https://img.shields.io/badge/Mobile-fd7e14?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Badge" />
+    <img src="https://img.shields.io/badge/Open%20Source-FF66C4?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Badge" />
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/Frontend-00C4FF?style=for-the-badge&logo=react&logoColor=white" alt="Frontend Badge" />
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Backend-9B5DE5?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend Badge" />
+
+  <!-- Mobile -->
+  <img src="https://img.shields.io/badge/Mobile-FF914D?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Badge" />
+
   </div>
 </div>
 
@@ -76,7 +83,7 @@
 
 ### 💬 How to contact me
 
-<div align="center" style="margin: 20px 0; font-family: 'Segoe UI', Roboto, sans-serif;">
+<div style="margin: 20px 0; font-family: 'Segoe UI', Roboto, sans-serif;">
 
   <p style="font-size: 1.1em;  margin-bottom: 15px;">
     Let’s connect and create something awesome together 🚀
