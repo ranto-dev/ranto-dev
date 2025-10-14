@@ -11,16 +11,62 @@
 
 <br />
 
-### ✨ About me
+<h2>✨ About me</h2>
 
-- 🤓 My name is Ranto
-- 👨‍💻 Versatile developer proficient in Python and JavaScript, with a passion for building great user interfaces.
-- 📫 You can reach me by email at [rantoandrianandraina@gmail.com](mailto:rantoandrianandraina@gmail.com)
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
 
-<div align="center">
-    <img height="200" src="./animation/pc-animate.gif" alt="PC Animation" />
+  <!-- Liste d'informations -->
+  <div style="max-width: 480px; font-family: 'Segoe UI', Arial, sans-serif; font-size: 16px; line-height: 1.6;">
+    <ul style="padding: 0; margin: 0; font-family: 'Segoe UI', Arial, sans-serif; font-size: 16px; line-height: 1.7;">
+      <li>🤓 <strong>My name is Ranto</strong></li>
+      <li>👨‍💻 Versatile developer proficient in <strong>Python</strong> and <strong>JavaScript</strong>, with a passion for building great user interfaces.</li>
+      <li>📫 You can reach me by email at <a href="mailto:rantoandrianandraina@gmail. com">rantoandrianandraina@gmail.com</a></li>
+    </ul>
+  </div>
+
+  <!-- Image -->
+  <div>
+    <img height="200" src="./animation/pc-animate.gif" alt="PC Animation" style="border-radius: 10px;" />
+  </div>
+
 </div>
 
-### 🛠️ Tech stack
+<h2>🚀 Tech Stack</h2>
+<div align="center" style="
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 18px;
+  padding: 10px;
+">
 
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?logo=rust&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/React_Native-%2320232A.svg?logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?logo=sass&logoColor=white) ![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?logo=ruby&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/rust.svg" alt="Rust" width="45" height="45" style="border-radius:8px;transition:transform .3s;" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/tailwindcss.svg" alt="TailwindCSS" width="45" height="45" style="border-radius:8px;transition:transform .3s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" />
+  <img src="https://api.iconify.design/simple-icons:vercel.svg" title="ShadCN UI" alt="ShadCN UI" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s; filter: invert(1);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s; filter: invert(1);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" />
+</div>
+
+### How to contact me
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juanbelin/juanbelin/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juanbelin/juanbelin/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/juanbelin/juanbelin/output/pacman-contribution-graph.svg">
+</picture>
