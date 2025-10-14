@@ -43,7 +43,7 @@
   </div>
 
   <!-- Image -->
-  <div>
+  <div align="center">
     <img height="200" src="./animation/pc-animate.gif" alt="PC Animation" style="border-radius: 10px;" />
   </div>
 
@@ -109,6 +109,8 @@
   </div>
 
 </div>
+
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juanbelin/juanbelin/output/pacman-contribution-graph-dark.svg">
