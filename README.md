@@ -81,7 +81,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" />
 </div>
 
-### 💬 How to contact me
+<h2>😊 How to contact me</h2>
 
 <div style="margin: 20px 0; font-family: 'Segoe UI', Roboto, sans-serif;">
 
