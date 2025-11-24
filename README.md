@@ -86,9 +86,9 @@
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/aina iarindranto" target="_blank" style="text-decoration: none;">
+  <!-- <a href="https://www.linkedin.com/in/aina iarindranto" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  </a> -->
 
   <!-- Facebook -->
   <a href="https://www.facebook.com/profile.php?id=100092317658006" target="_blank" style="text-decoration: none;">
