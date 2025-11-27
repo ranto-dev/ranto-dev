@@ -69,6 +69,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s; filter: invert(1);" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" />
