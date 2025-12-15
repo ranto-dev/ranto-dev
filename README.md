@@ -1,3 +1,5 @@
+![header](./assets/header-githubprofile.png)
+
 <div align="center" style="font-family: 'Segoe UI', Roboto, sans-serif;">
 
   <h1 style="font-size: 2.4em; margin-bottom: 10px;">Hi stranger! 👋</h1>
