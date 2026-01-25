@@ -24,9 +24,7 @@
 <!-- about section -->
 <h2>✨ About me</h2>
 
-<div>
-
-  <div style="max-width: 520px; font-family: 'Segoe UI', Arial, sans-serif; font-size: 16px; line-height: 1.7;">
+<div style="max-width: 520px; font-family: 'Segoe UI', Arial, sans-serif; font-size: 16px; line-height: 1.7;">
   <ul>
     <li>👋 Hello, I’m <strong>Ranto</strong></li>
     <li>
@@ -38,12 +36,6 @@
       <a href="mailto:rantoandrianandraina@gmail.com">rantoandrianandraina@gmail.com</a>
     </li>
   </ul>
-</div>
-
-  <div align="center">
-    <img height="200" src="./animation/pc-animate.gif" alt="PC Animation" style="border-radius: 10px;" />
-  </div>
-
 </div>
 
 <!-- stack section -->
