@@ -1,41 +1,31 @@
-![header](./assets/header-githubprofile.png)
+<!-- banner image -->
 
-<div align="center" style="font-family: 'Segoe UI', Roboto, sans-serif;">
+![header](./assets/banner-githubprofile.png)
 
-  <h1 style="font-size: 2.4em; margin-bottom: 10px;">Hi stranger! 👋</h1>
-  <p style="font-size: 1.1em; max-width: 600px; margin: 0 auto 20px;">
-    🚀 Turning ideas into <b>clean</b>, <b>performant</b> and <b>user-focused</b> software.<br>
-    Passionate about <b>App Development</b>, <b>Open Source</b>, and <b>Continuous Learning</b>.
+<!-- banner content -->
+<div align="center">
+
+  <h1>Hi stranger ! 👋</h1>
+
+   <p>
+    💻 <b>Full-Stack & Cross-Platform Developer</b><br/>
+    🚀 I build <b>scalable</b>, <b>performant</b> and <b>user-centric</b> applications<br/>
+    🌍 Web • Mobile • Desktop
   </p>
 
-  <div style="
-    display: flex;
-    gap: 12px;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin-top: 10px;
-  ">
-    <img src="https://img.shields.io/badge/Open%20Source-FF66C4?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Badge" />
+  <img src="https://img.shields.io/badge/Full--Stack-0A66C2?style=for-the-badge&logo=stackshare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cross--Platform-FF914D?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/Frontend-00C4FF?style=for-the-badge&logo=react&logoColor=white" alt="Frontend Badge" />
-
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Backend-9B5DE5?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend Badge" />
-
-  <!-- Mobile -->
-  <img src="https://img.shields.io/badge/Mobile-FF914D?style=for-the-badge&logo=android&logoColor=white" alt="Mobile Badge" />
-
-  </div>
 </div>
 
 <br />
 
+<!-- about section -->
 <h2>✨ About me</h2>
 
 <div>
 
-  <!-- Liste d'informations -->
   <div style="max-width: 480px; font-family: 'Segoe UI', Arial, sans-serif; font-size: 16px; line-height: 1.6;">
     <ul style="padding: 0; margin: 0; font-family: 'Segoe UI', Arial, sans-serif; font-size: 16px; line-height: 1.7;">
       <li>🤓 My name is <strong> Ranto</strong></li>
@@ -44,19 +34,20 @@
     </ul>
   </div>
 
-  <!-- Image -->
   <div align="center">
     <img height="200" src="./animation/pc-animate.gif" alt="PC Animation" style="border-radius: 10px;" />
   </div>
 
 </div>
 
+<!-- stack section -->
 <h2>🚀 Tech Stack</h2>
 
 <div align="center" style=" display: flex; justify-content: start; align-items: center; gap: 18px; padding: 10px; ">
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/rust.svg" alt="Rust" width="45" height="45" style="border-radius:8px;transition:transform .3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" style="border-radius:8px;transition:transform .3s;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s; filter: invert(1);" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s; filter: invert(1);" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> </div>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/rust.svg" alt="Rust" width="45" height="45" style="border-radius:8px;transition:transform .3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" style="border-radius:8px;transition:transform .3s;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s; filter: invert(1);" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s; filter: invert(1);" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> </div>
 
+<!-- contact section -->
 <h2>😊 How to contact me</h2>
 
 <div style="margin: 20px 0; font-family: 'Segoe UI', Roboto, sans-serif;">
@@ -67,17 +58,10 @@
 
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
-  <!-- LinkedIn -->
-  <!-- <a href="https://www.linkedin.com/in/aina iarindranto" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a> -->
-
-  <!-- Facebook -->
   <a href="https://www.facebook.com/profile.php?id=100092317658006" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 
-  <!-- Portfolio -->
   <a href="https://ranto-dev.vercel.app" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
@@ -88,6 +72,7 @@
 
 <br />
 
+<!-- pacman animation picture -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranto-dev/ranto-dev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranto-dev/ranto-dev/output/pacman-contribution-graph.svg">
