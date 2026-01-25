@@ -27,7 +27,7 @@
 <div>
 
   <div style="max-width: 520px; font-family: 'Segoe UI', Arial, sans-serif; font-size: 16px; line-height: 1.7;">
-  <ul style="list-style: none; padding: 0; margin: 0;">
+  <ul>
     <li>👋 Hello, I’m <strong>Ranto</strong></li>
     <li>
       💻 <strong>Full-Stack & Cross-Platform Developer</strong> specialized in building high-performance
