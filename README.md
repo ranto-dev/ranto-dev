@@ -29,7 +29,7 @@
     <li>👋 Hello, I’m <strong>Ranto</strong></li>
     <li>
       💻 <strong>Full-Stack & Cross-Platform Developer</strong> specialized in building high-performance
-      applications with <strong>Python</strong>, <strong>flutter</strong> and <strong>JavaScript</strong>.
+      applications with <strong>Python</strong>, <strong>Flutter</strong> and <strong>Typescript</strong>.
     </li>
     <li>
       📬 Let’s connect:
@@ -37,6 +37,26 @@
     </li>
   </ul>
 </div>
+
+<br />
+
+<!-- TypeScript snippet -->
+
+```ts
+type Stack = "Web" | "Mobile" | "Desktop";
+
+const build = (stack: Stack[], quality = "high") =>
+  stack.map((platform) => ({
+    platform,
+    code: "clean",
+    performance: "optimized",
+    experience: quality,
+  }));
+
+build(["Web", "Mobile", "Desktop"]);
+```
+
+<br />
 
 <!-- github stats -->
 <div>
