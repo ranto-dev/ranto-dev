@@ -8,8 +8,8 @@
   <h1>Hi stranger ! 👋</h1>
 
    <p>
-    💻 <b>Full-Stack & Cross-Platform Developer</b><br/>
-    🚀 I build <b>scalable</b>, <b>performant</b> and <b>user-centric</b> applications<br/>
+    <b>Full-Stack & Cross-Platform Developer</b><br/>
+    I build <b>scalable</b>, <b>performant</b> and <b>user-centric</b> applications<br/>
     🌍 Web • Mobile • Desktop
   </p>
 
