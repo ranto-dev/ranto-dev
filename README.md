@@ -26,13 +26,20 @@
 
 <div>
 
-  <div style="max-width: 480px; font-family: 'Segoe UI', Arial, sans-serif; font-size: 16px; line-height: 1.6;">
-    <ul style="padding: 0; margin: 0; font-family: 'Segoe UI', Arial, sans-serif; font-size: 16px; line-height: 1.7;">
-      <li>🤓 My name is <strong> Ranto</strong></li>
-      <li>👨‍💻 Creative developer blending <strong>Python</strong> and <strong>JavaScript</strong> to build seamless digital experiences.</li>
-      <li>📫 You can reach me by email at <a href="mailto:rantoandrianandraina@gmail. com">rantoandrianandraina@gmail.com</a></li>
-    </ul>
-  </div>
+  <div style="max-width: 520px; font-family: 'Segoe UI', Arial, sans-serif; font-size: 16px; line-height: 1.7;">
+  <ul style="list-style: none; padding: 0; margin: 0;">
+    <li>👋 Hello, I’m <strong>Ranto</strong></li>
+    <li>
+      💻 <strong>Full-Stack & Cross-Platform Developer</strong> specialized in building high-performance
+      applications with <strong>Python</strong>, <strong>flutter</strong> and <strong>JavaScript</strong>.
+    </li>
+    <li>
+      📬 Let’s connect:
+      <a href="mailto:rantoandrianandraina@gmail.com">rantoandrianandraina@gmail.com</a>
+    </li>
+  </ul>
+</div>
+
 
   <div align="center">
     <img height="200" src="./animation/pc-animate.gif" alt="PC Animation" style="border-radius: 10px;" />
