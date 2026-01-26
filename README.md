@@ -1,6 +1,6 @@
 <!-- banner image -->
 
-![header](./assets/banner-githubprofile.png)
+![header](./assets/adventure-time.png)
 
 <!-- banner content -->
 <div align="center">
