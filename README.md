@@ -42,18 +42,25 @@
 
 <!-- TypeScript snippet -->
 
-```ts
-type Stack = "Web" | "Mobile" | "Desktop";
+```rust
+#[derive(Debug)]
+struct App<'a> {
+    platform: &'a str,
+    code: &'a str,
+    performance: &'a str,
+    experience: &'a str,
+}
 
-const build = (stack: Stack[], quality = "high") =>
-  stack.map((platform) => ({
-    platform,
-    code: "clean",
-    performance: "optimized",
-    experience: quality,
-  }));
+fn build(stack: &[&str], quality: &str) -> Vec<App> {
+    stack.iter().map(|&platform| App {
+        platform,
+        code: "clean",
+        performance: "optimized",
+        experience: quality,
+    }).collect()
+}
 
-build(["Web", "Mobile", "Desktop"]);
+let _apps = build(&["Web", "Mobile", "Desktop"], "high");
 ```
 
 <br />
