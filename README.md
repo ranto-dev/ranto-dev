@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
-git 
 <br />
 
 <!-- about section -->
