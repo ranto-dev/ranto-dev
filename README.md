@@ -40,7 +40,7 @@
 
 <br />
 
-<!-- TypeScript snippet -->
+<!-- Rust code snippet -->
 
 ```rust
 #[derive(Debug)]
