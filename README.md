@@ -1,6 +1,6 @@
 <!-- banner image -->
 
-![header](./assets/banner-image.png)
+![header](./assets/header-image.png)
 
 <!-- banner content -->
 <div align="center">
