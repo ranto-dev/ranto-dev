@@ -1,5 +1,4 @@
 <!-- banner image -->
-
 ![header](./assets/header-image.png)
 
 <!-- banner content -->
@@ -40,7 +39,6 @@
 <br />
 
 <!-- Rust code snippet -->
-
 ```rust
 #[derive(Debug)]
 struct App<'a> {
@@ -64,7 +62,7 @@ let _apps = build(&["Web", "Mobile", "Desktop"], "high");
 
 <br />
 
-<!-- github stats -->
+<!-- Github statistics -->
 <div>
   <p align="center">
     <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=ranto-dev&theme=dark" alt="GitHub Streak" /></a>
@@ -80,8 +78,8 @@ let _apps = build(&["Web", "Mobile", "Desktop"], "high");
   </p>
 </div>
 
-<!-- stack section -->
-<h2>🚀 Tech Stack</h2>
+<!-- Tech stack section -->
+<h2>🚀 My Stack</h2>
 
 <div align="center" style=" display: flex; justify-content: start; align-items: center; gap: 18px; padding: 10px; ">
 
@@ -107,7 +105,7 @@ let _apps = build(&["Web", "Mobile", "Desktop"], "high");
 
 <br />
 
-<!-- pacman animation picture -->
+<!--  Pacman workflow output picture -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranto-dev/ranto-dev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranto-dev/ranto-dev/output/pacman-contribution-graph.svg">
