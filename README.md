@@ -31,7 +31,145 @@
     </li>
     <li>
       📬 Let’s connect:
+      <a href="mailto:rantoandrianandraina@gmail.<!-- banner image -->
+![header](./assets/header-image.png)
+
+<!-- banner content -->
+<div align="center">
+
+  <h1>Hello World ! 👋</h1>
+
+  <p>
+    <b>Full-Stack & Cross-Platform Developer</b><br/>
+    Designing and delivering <b>scalable</b>, <b>high-performance</b>, and <b>user-focused</b> digital solutions<br/>
+    🌍 Web • Mobile • Desktop
+  </p>
+
+  <img src="https://img.shields.io/badge/Full--Stack-0A66C2?style=for-the-badge&logo=stackshare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cross--Platform-FF914D?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</div>
+<br />
+
+<!-- about section -->
+<h2>✨ About Me</h2>
+
+<div style="max-width: 520px; font-family: 'Segoe UI', Arial, sans-serif; font-size: 16px; line-height: 1.7;">
+  <ul>
+    <li>👋 I'm <strong>Ranto</strong>, a passionate software engineer.</li>
+    <li>
+      💻 <strong>Full-Stack & Cross-Platform Developer</strong> focused on architecting and building
+      robust, maintainable, and high-performance applications using
+      <strong>Python</strong>, <strong>Flutter</strong>, and <strong>TypeScript</strong>.
+    </li>
+    <li>
+      🚀 I transform ideas into reliable digital products with clean architecture and optimized performance.
+    </li>
+    <li>
+      📬 Open to collaboration and new opportunities:
       <a href="mailto:rantoandrianandraina@gmail.com">rantoandrianandraina@gmail.com</a>
+    </li>
+  </ul>
+</div>
+
+<br />
+
+<!-- Rust code snippet -->
+
+```rust
+#[derive(Debug)]
+struct App<'a> {
+    platform: &'a str,
+    code_quality: &'a str,
+    performance: &'a str,
+    user_experience: &'a str,
+}
+
+fn build(stack: &[&str], standard: &str) -> Vec<App> {
+    stack.iter().map(|&platform| App {
+        platform,
+        code_quality: "clean & maintainable",
+        performance: "optimized",
+        user_experience: standard,
+    }).collect()
+}
+
+let _products = build(&["Web", "Mobile", "Desktop"], "high-end");
+```
+
+<br />
+
+<!-- Github statistics -->
+<h2>📊 GitHub Insights</h2>
+
+<div>
+  <p align="center">
+    <a href="https://git.io/streak-stats">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=ranto-dev&theme=dark" alt="GitHub Streak" />
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://ossinsight.io/analyze/ranto-dev">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" 
+                srcset="https://github-readme-activity-graph.vercel.app/graph?username=ranto-dev&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranto-dev&theme=react-light&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph"
+             width="95%" alt="Contribution Graph">
+      </picture>
+    </a>
+  </p>
+</div>
+
+<!-- Tech stack section -->
+<h2>🚀 Technology Stack</h2>
+
+<p align="center">
+A versatile and modern stack enabling me to build end-to-end solutions across platforms.
+</p>
+
+<div align="center" style="display: flex; justify-content: start; align-items: center; gap: 18px; padding: 10px;">
+
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/rust.svg" alt="Rust" width="45" height="45" style="border-radius:8px;transition:transform .3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" style="border-radius:8px;transition:transform .3s;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" />
+
+</div>
+
+<!-- Contact Section -->
+
+<h2>🤝 Let’s Connect</h2>
+
+<div style="margin: 20px 0; font-family: 'Segoe UI', Roboto, sans-serif;">
+
+  <p style="font-size: 1.05em; margin-bottom: 18px;">
+    Interested in collaborating on a project, discussing innovative ideas,
+    or building impactful software together?  
+    I would be glad to connect.
+  </p>
+
+  <div style="display: flex; justify-content: center; gap: 18px; flex-wrap: wrap;">
+
+<a href="https://www.facebook.com/profile.php?id=100092317658006" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+
+<a href="https://ranto-dev.vercel.app" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
+
+  </div>
+
+</div>
+
+<br />
+
+<!-- Pacman workflow output picture -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranto-dev/ranto-dev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranto-dev/ranto-dev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ranto-dev/ranto-dev/output/pacman-contribution-graph.svg">
+</picture>com">rantoandrianandraina@gmail.com</a>
     </li>
   </ul>
 </div>
