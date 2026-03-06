@@ -1,72 +1,22 @@
-<!-- banner image -->
-![header](./assets/header-image.png)
+## Hey there 👋, I'm [Ranto](https://ranto-dev.vercle.app)!
 
-<!-- banner content -->
-<div align="center">
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100092317658006)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ranto-dev.vercel.app)
 
-  <h1>Hello World ! 👋</h1>
+### Glad to see you here!
 
-  <p>
-    <b>Full-Stack & Cross-Platform Developer</b><br/>
-    Designing and delivering <b>scalable</b>, <b>high-performance</b>, and <b>user-focused</b> digital solutions<br/>
-    🌍 Web • Mobile • Desktop
-  </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranto-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ranto-dev" /> </p>
+I’m a Full-Stack & Cross-Platform Developer passionate about building modern, scalable, and high-performance applications across Web, Mobile, and Desktop platforms. 🚀
 
-  <img src="https://img.shields.io/badge/Full--Stack-0A66C2?style=for-the-badge&logo=stackshare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cross--Platform-FF914D?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
+My work focuses on transforming ideas into reliable digital products through clean architecture, efficient code, and thoughtful user experience. I primarily work with technologies such as TypeScript, Python, Flutter, React, Node.js, and modern databases, allowing me to design and develop complete end-to-end solutions.
 
-</div>
+I enjoy solving complex problems, exploring new technologies, and continuously improving the way software is built. For me, development is not just about writing code — it's about creating systems that are robust, scalable, and meaningful for users.
 
-<br />
+Outside of coding, I spend time learning about emerging technologies, improving my skills, and exploring innovative tools that push the boundaries of modern software development.
 
-<!-- about section -->
-<h2>✨ About Me</h2>
+Feel free to connect with me if you’re interested in technology, collaboration, or building impactful digital solutions together. 🌟
 
-<div style="max-width: 520px; font-family: 'Segoe UI', Arial, sans-serif; font-size: 16px; line-height: 1.7;">
-  <ul>
-    <li>👋 I'm <strong>Ranto</strong>, a passionate software engineer.</li>
-    <li>
-      💻 <strong>Full-Stack & Cross-Platform Developer</strong> focused on architecting and building
-      robust, maintainable, and high-performance applications using
-      <strong>Python</strong>, <strong>Flutter</strong>, and <strong>TypeScript</strong>.
-    </li>
-    <li>
-      🚀 I transform ideas into reliable digital products with clean architecture and optimized performance.
-    </li>
-    <li>
-      📬 Open to collaboration and new opportunities:
-      <a href="mailto:rantoandrianandraina@gmail.com">rantoandrianandraina@gmail.com</a>
-    </li>
-  </ul>
-</div>
-
-<br />
-
-<!-- Rust code snippet -->
-
-```rust
-#[derive(Debug)]
-struct App<'a> {
-    platform: &'a str,
-    code_quality: &'a str,
-    performance: &'a str,
-    user_experience: &'a str,
-}
-
-fn build(stack: &[&str], standard: &str) -> Vec<App> {
-    stack.iter().map(|&platform| App {
-        platform,
-        code_quality: "clean & maintainable",
-        performance: "optimized",
-        user_experience: standard,
-    }).collect()
-}
-
-let _products = build(&["Web", "Mobile", "Desktop"], "high-end");
-```
-
-<br />
+<hr>
 
 <!-- Github statistics -->
 <h2>📊 GitHub Insights</h2>
@@ -90,51 +40,55 @@ let _products = build(&["Web", "Mobile", "Desktop"], "high-end");
   </p>
 </div>
 
-<!-- Tech stack section -->
-<h2>🚀 Technology Stack</h2>
+<hr>
 
-<p align="center">
-A versatile and modern stack enabling me to build end-to-end solutions across platforms.
-</p>
+<img align="right" height="250" width="375" alt="" src="./assets/coder.gif" />
 
-<div align="center" style="display: flex; justify-content: start; align-items: center; gap: 18px; padding: 10px;">
+### Talking about Personal Stuff:
+
+- 🛠 &nbsp; I’m currently working with Flutter, Typescript and Rust.
+- 🚀 &nbsp; I’m currently exploring DevOps
+- 👾 &nbsp; Fun fact: EIn JavaScript, NaN !== NaN - it’s the only value that isn’t equal to itself.
+- 📫 &nbsp; Reach me at: rantoandrianandraina@gmail.com
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love exploring new technologies and building cool stuff.
+- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
+- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
+
+### Languages and Tools:
 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/rust.svg" alt="Rust" width="45" height="45" style="border-radius:8px;transition:transform .3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" style="border-radius:8px;transition:transform .3s;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="45" height="45" style="border-radius: 8px; transition: transform 0.3s;" />
 
+### Projects and Dev Stuffs:
+
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranto-dev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranto-dev&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+    <li><b>Operating System:</b> Arch Linux</li>
+<li><b>Browsers:</b> Firefox & Google Chrome</li>
+<li><b>Terminal:</b> Zsh with Oh My Zsh</li>
+<li><b>Code Editor:</b> Visual Studio Code</li>
+<li><b>Development Tools:</b> Git, Docker, Insomnia, Postman</li>
+<li><b>Tech Interests:</b> Full-Stack Development, Cross-Platform Apps, Open Source</li>
+<li><b>Learning Sources:</b> Tech Communities, Product Hunt, Hacker News, YouTube</li>
+	</ul>
+</details>
+
+#
+
+<div align="center">
+
+### 🔥 Feel free to explore the repositories and leave a ⭐ if something catches your interest.
+
 </div>
-
-<!-- Contact Section -->
-
-<h2>🤝 Let’s Connect</h2>
-
-<div style="margin: 20px 0; font-family: 'Segoe UI', Roboto, sans-serif;">
-
-  <p style="font-size: 1.05em; margin-bottom: 18px;">
-    Interested in collaborating on a project, discussing innovative ideas,
-    or building impactful software together?  
-    I would be glad to connect.
-  </p>
-
-  <div style="display: flex; justify-content: center; gap: 18px; flex-wrap: wrap;">
-
-  <a href="https://www.facebook.com/profile.php?id=100092317658006" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-
-  <a href="https://ranto-dev.vercel.app" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-
-  </div>
-
-</div>
-
-<br />
-
-<!-- Pacman workflow output picture -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranto-dev/ranto-dev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranto-dev/ranto-dev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ranto-dev/ranto-dev/output/pacman-contribution-graph.svg">
-</picture>
