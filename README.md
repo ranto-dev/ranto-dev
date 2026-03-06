@@ -18,30 +18,6 @@ Feel free to connect with me if you’re interested in technology, collaboration
 
 <hr>
 
-<!-- Github statistics -->
-<h2>📊 GitHub Insights</h2>
-
-<div>
-  <p align="center">
-    <a href="https://git.io/streak-stats">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=ranto-dev&theme=dark" alt="GitHub Streak" />
-    </a>
-  </p>
-
-  <p align="center">
-    <a href="https://ossinsight.io/analyze/ranto-dev">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" 
-                srcset="https://github-readme-activity-graph.vercel.app/graph?username=ranto-dev&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranto-dev&theme=react-light&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph"
-             width="95%" alt="Contribution Graph">
-      </picture>
-    </a>
-  </p>
-</div>
-
-<hr>
-
 <img align="right" height="250" width="375" alt="" src="./assets/coder.gif" />
 
 ### Talking about Personal Stuff:
@@ -74,24 +50,37 @@ Feel free to connect with me if you’re interested in technology, collaboration
 ### Projects and Dev Stuffs:
 
 <details>
-  <summary><b>⚡ Github Stats</b></summary>
-
+  <summary><b>⚡ Github Contribution Graph</b></summary>
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranto-dev&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranto-dev&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <a height="180em" href="https://ossinsight.io/analyze/ranto-dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-activity-graph.vercel.app/graph?username=ranto-dev&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranto-dev&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph"
+           width="95%" alt="Contribution Graph">
+    </picture>
+  </a>
 </details>
 
 <details>
+  <summary><b>☄️ Github Streaks</b></summary>
   <br />
+    <a height="180em" href="https://git.io/streak-stats">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=ranto-dev&theme=dark" alt="GitHub Streak" />
+    </a>
+</details>
+
+<details>
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
+  <br />
+  <ul>
     <li><b>Operating System:</b> Arch Linux</li>
-<li><b>Browsers:</b> Firefox & Google Chrome</li>
-<li><b>Terminal:</b> Zsh with Oh My Zsh</li>
-<li><b>Code Editor:</b> Visual Studio Code</li>
-<li><b>Development Tools:</b> Git, Docker, Insomnia, Postman</li>
-<li><b>Tech Interests:</b> Full-Stack Development, Cross-Platform Apps, Open Source</li>
-<li><b>Learning Sources:</b> Tech Communities, Product Hunt, Hacker News, YouTube</li>
+    <li><b>Browsers:</b> Firefox & Google Chrome</li>
+    <li><b>Terminal:</b> Zsh with Oh My Zsh</li>
+    <li><b>Code Editor:</b> Visual Studio Code</li>
+    <li><b>Development Tools:</b> Git, Docker, Insomnia, Postman</li>
+    <li><b>Tech Interests:</b> Full-Stack Development, Cross-Platform Apps, Open Source</li>
+    <li><b>Learning Sources:</b> Tech Communities, Product Hunt, Hacker News, YouTube</li>
 	</ul>
 </details>
 
