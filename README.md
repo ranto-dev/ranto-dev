@@ -67,9 +67,6 @@ Feel free to connect with me if you’re interested in technology, collaboration
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="nodejs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="java"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="mysql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="postgresql"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="docker"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="linux"></code>
