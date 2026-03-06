@@ -48,7 +48,7 @@ Feel free to connect with me if you’re interested in technology, collaboration
 
 - 🛠 &nbsp; I’m currently working with Flutter, Typescript and Rust.
 - 🚀 &nbsp; I’m currently exploring DevOps
-- 👾 &nbsp; Fun fact: EIn JavaScript, NaN !== NaN - it’s the only value that isn’t equal to itself.
+- 👾 &nbsp; Fun fact: A missing semicolon can break your whole day. 😅
 - 📫 &nbsp; Reach me at: rantoandrianandraina@gmail.com
 
 ### My Absolute Favorites:
