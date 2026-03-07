@@ -1,56 +1,59 @@
-## Hey there 👋, I'm [Ranto](https://ranto-dev.vercle.app)!
+## Hey there 👋, I'm [Ranto](https://ranto-dev.vercel.app)
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100092317658006)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ranto-dev.vercel.app)
 
-### Glad to see you here!
+### Welcome to my GitHub! 🚀
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranto-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ranto-dev" /> </p>
-I’m a Full-Stack & Cross-Platform Developer passionate about building modern, scalable, and high-performance applications across Web, Mobile, and Desktop platforms. 🚀
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ranto-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ranto-dev" />
+</p>
 
-My work focuses on transforming ideas into reliable digital products through clean architecture, efficient code, and thoughtful user experience. I primarily work with technologies such as TypeScript, Python, Flutter, React, Node.js, and modern databases, allowing me to design and develop complete end-to-end solutions.
+I'm a **Full-Stack & Cross-Platform Developer** passionate about building **modern, scalable, and high-performance applications** across **Web, Mobile, and Desktop platforms**.
 
-I enjoy solving complex problems, exploring new technologies, and continuously improving the way software is built. For me, development is not just about writing code — it's about creating systems that are robust, scalable, and meaningful for users.
+I enjoy transforming ideas into **real digital products** through clean architecture, efficient code, and thoughtful user experience.
 
-Outside of coding, I spend time learning about emerging technologies, improving my skills, and exploring innovative tools that push the boundaries of modern software development.
+My main stack revolves around technologies like **TypeScript, Python, Flutter, React, Node.js, and modern databases**, enabling me to design and build **complete end-to-end solutions**.
 
-Feel free to connect with me if you’re interested in technology, collaboration, or building impactful digital solutions together. 🌟
+For me, software development is more than just writing code — it's about **building systems that are reliable, scalable, and meaningful for users**.
 
-<hr>
+I love **solving complex problems**, **exploring new technologies**, and constantly improving the way software is designed and delivered.
+
+Outside of coding, I spend time **learning emerging technologies, experimenting with new tools, and staying curious about the future of software development.**
+
+If you enjoy talking about **technology, open source, or building impactful products**, feel free to connect! 🌟
+
+---
 
 <img align="right" height="250" width="375" alt="" src="./assets/coder.gif" />
 
-### Talking about Personal Stuff:
+## A little about me
 
-- 🛠 &nbsp; I’m currently working with Flutter, Typescript and Rust.
-- 🚀 &nbsp; I’m currently exploring DevOps
-- 👾 &nbsp; Fun fact: A missing semicolon can break your whole day. 😅
-- 📫 &nbsp; Reach me at: rantoandrianandraina@gmail.com
+- 🛠 Currently working with **Flutter, TypeScript, and Rust**
+- 🚀 Exploring the world of **DevOps and modern infrastructure**
+- 👾 Fun fact: _A missing semicolon can ruin your entire day._ 😅
+- 📫 Reach me at: **[rantoandrianandraina@gmail.com](mailto:rantoandrianandraina@gmail.com)**
 
-### My Absolute Favorites:
+---
 
-- 💻 &nbsp; I love exploring new technologies and building cool stuff.
-- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
-- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
+## Things I Enjoy
 
-### Languages and Tools:
+- 💻 Exploring new technologies and building interesting projects
+- 📰 Reading, writing, and watching tech content
+- 🍕 Participating in **meetups, hackathons, and tech events**
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png" alt="rust"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" alt="sass"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="typescript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="react"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="flutter"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="java"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="docker"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="linux"></code>
+---
 
-### Projects and Dev Stuffs:
+## Languages and Tools
+
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png" alt="rust"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" alt="sass"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="typescript"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="react"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="flutter"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="nodejs"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="java"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="docker"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="linux"></code>
+
+---
+
+# 📊 Projects & Development Activity
 
 <details>
-  <summary><b>⚡ Github Contribution Graph</b></summary>
+  <summary><b>⚡ GitHub Contribution Graph</b></summary>
   <br />
   <a height="180em" href="https://ossinsight.io/analyze/ranto-dev">
     <picture>
@@ -63,7 +66,7 @@ Feel free to connect with me if you’re interested in technology, collaboration
 </details>
 
 <details>
-  <summary><b>☄️ Github Streaks</b></summary>
+  <summary><b>🔥 GitHub Streak Stats</b></summary>
   <br />
     <a height="180em" href="https://git.io/streak-stats">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=ranto-dev&theme=dark" alt="GitHub Streak" />
@@ -71,7 +74,7 @@ Feel free to connect with me if you’re interested in technology, collaboration
 </details>
 
 <details>
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  <summary><b>⚙️ My Development Environment</b></summary>
   <br />
   <ul>
     <li><b>Operating System:</b> Arch Linux</li>
@@ -81,13 +84,15 @@ Feel free to connect with me if you’re interested in technology, collaboration
     <li><b>Development Tools:</b> Git, Docker, Insomnia, Postman</li>
     <li><b>Tech Interests:</b> Full-Stack Development, Cross-Platform Apps, Open Source</li>
     <li><b>Learning Sources:</b> Tech Communities, Product Hunt, Hacker News, YouTube</li>
-	</ul>
+  </ul>
 </details>
 
-#
+---
 
 <div align="center">
 
-### 🔥 Feel free to explore the repositories and leave a ⭐ if something catches your interest.
+### ⭐ Feel free to explore my repositories
+
+### and leave a star if something catches your interest!
 
 </div>
