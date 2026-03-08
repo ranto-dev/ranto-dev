@@ -27,16 +27,13 @@ If you enjoy talking about **technology, open source, or building impactful prod
 
 <img align="right" height="250" width="375" alt="" src="./assets/coder.gif" />
 
-## A little about me
+### A little about me
 
 - 🛠 Currently working with **Flutter, TypeScript, and Rust**
 - 🚀 Exploring the world of **DevOps and modern infrastructure**
-- 👾 Fun fact: _A missing semicolon can ruin your entire day._ 😅
 - 📫 Reach me at: **[rantoandrianandraina@gmail.com](mailto:rantoandrianandraina@gmail.com)**
 
----
-
-## Things I Enjoy
+### Things I Enjoy
 
 - 💻 Exploring new technologies and building interesting projects
 - 📰 Reading, writing, and watching tech content
