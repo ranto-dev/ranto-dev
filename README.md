@@ -3,7 +3,7 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100092317658006)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ranto-dev.vercel.app)
 
-### Welcome to my GitHub! 🚀
+#### Welcome to my GitHub! 🚀
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ranto-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ranto-dev" />
@@ -41,13 +41,13 @@ If you enjoy talking about **technology, open source, or building impactful prod
 
 ---
 
-## Languages and Tools
+### Languages and Tools
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png" alt="rust"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" alt="sass"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="typescript"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="react"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="flutter"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="nodejs"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="java"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="docker"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="linux"></code>
 
 ---
 
-# 📊 Projects & Development Activity
+### Projects & Development Activity
 
 <details>
   <summary><b>⚡ GitHub Contribution Graph</b></summary>
