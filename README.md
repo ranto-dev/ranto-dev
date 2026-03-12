@@ -63,11 +63,22 @@ If you enjoy talking about **technology, open source, or building impactful prod
 </details>
 
 <details>
-  <summary><b>🔥 GitHub Streak Stats</b></summary>
+  <summary><b>🔥 GitHub Streak</b></summary>
   <br />
     <a height="180em" href="https://git.io/streak-stats">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=ranto-dev&theme=dark" alt="GitHub Streak" />
     </a>
+</details>
+
+<details>
+  <summary><b>📊 GitHub Stats</b></summary>
+  <br />
+  <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=166365779" target="_blank" style="display: block" align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=166365779&image_size=auto&color_scheme=dark" width="771" height="auto">
+      <img alt="Dashboard stats of @ranto-dev" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=166365779&image_size=auto&color_scheme=light" width="771" height="auto">
+    </picture>
+  </a>
 </details>
 
 <details>
