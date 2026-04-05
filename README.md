@@ -1,4 +1,4 @@
-## Hey there 👋, I'm [Ranto](https://ranto-dev.vercel.app)
+## Hi 👋, I'm [Ranto](https://ranto-dev.vercel.app)
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100092317658006)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ranto-dev.vercel.app)
