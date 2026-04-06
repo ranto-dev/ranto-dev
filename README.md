@@ -1,29 +1,33 @@
-## Hi 👋, I'm [Ranto](https://ranto-dev.vercel.app)
+## Hi there 👋, I'm [Ranto](https://ranto-dev.vercel.app)
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100092317658006)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ranto-dev.vercel.app)
 
-#### Welcome to my GitHub! 🚀
+### Glad to see you here! 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ranto-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ranto-dev" />
 </p>
 
-I'm a **Full-Stack & Cross-Platform Developer** passionate about building **modern, scalable, and high-performance applications** across **Web, Mobile, and Desktop platforms**.
+I build modern, high-performance applications for **Web, Mobile, and Desktop**. I specialize in turning complex ideas into scalable digital products through clean architecture and thoughtful UX.
 
-I enjoy transforming ideas into **real digital products** through clean architecture, efficient code, and thoughtful user experience.
+My core stack includes **TypeScript, Python, Flutter, React, and Node.js**. This allows me to design and ship complete, end-to-end solutions from scratch.
 
-My main stack revolves around technologies like **TypeScript, Python, Flutter, React, Node.js, and modern databases**, enabling me to design and build **complete end-to-end solutions**.
+To me, development is about more than code - it’s about engineering **reliable and meaningful systems** that solve real-world problems at scale.
 
-For me, software development is more than just writing code — it's about **building systems that are reliable, scalable, and meaningful for users**.
+I am driven by curiosity, constantly exploring **emerging tech** and new tools to refine how software is designed and delivered.
 
-I love **solving complex problems**, **exploring new technologies**, and constantly improving the way software is designed and delivered.
+Love talking about tech, open source, or impactful products? **Let’s connect!** 🌟
 
-Outside of coding, I spend time **learning emerging technologies, experimenting with new tools, and staying curious about the future of software development.**
+<hr>
 
-If you enjoy talking about **technology, open source, or building impactful products**, feel free to connect! 🌟
+<h3 align="left">✨ Random Dev Quote::</h3>
 
----
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+
+<hr>
 
 <img align="right" height="250" width="375" alt="" src="./assets/coder.gif" />
 
@@ -99,8 +103,6 @@ If you enjoy talking about **technology, open source, or building impactful prod
 
 <div align="center">
 
-### ⭐ Feel free to explore my repositories
-
-### and leave a star if something catches your interest!
+### Show some ❤️ by starring some of the repositories!
 
 </div>
