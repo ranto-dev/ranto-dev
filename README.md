@@ -3,25 +3,25 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100092317658006)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ranto-dev.vercel.app)
 
-### Glad to see you here! 
+### Turning "What if?" into "It's live!" ⚡
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ranto-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ranto-dev" />
+  <img src="https://komarev.com/ghpvc/?username=ranto-dev&label=Daily%20Visitors&color=0e75b6&style=flat" alt="ranto-dev" />
 </p>
 
-I build modern, high-performance applications for **Web, Mobile, and Desktop**. I specialize in turning complex ideas into scalable digital products through clean architecture and thoughtful UX.
+I'm a software engineer obsessed with building high-performance digital experiences. Whether it's **Web, Mobile, or Desktop**, I don't just write code — **I ship products that matter.** 🚀
 
-My core stack includes **TypeScript, Python, Flutter, React, and Node.js**. This allows me to design and ship complete, end-to-end solutions from scratch.
+I’m a firm believer in clean architecture, pixel-perfect UX, and the Silicon Valley mantra: _"Move fast and build things that scale."_ ☕️
 
-To me, development is about more than code - it’s about engineering **reliable and meaningful systems** that solve real-world problems at scale.
+My daily playground involves **TypeScript, Python, Flutter, and React**. I love the challenge of taking a complex idea from a napkin sketch to a robust, end-to-end solution.
 
-I am driven by curiosity, constantly exploring **emerging tech** and new tools to refine how software is designed and delivered.
+> "The best way to predict the future is to ship it."
 
-Love talking about tech, open source, or impactful products? **Let’s connect!** 🌟
+I'm always down to talk about open-source, disruptive tech, or how we can build the next big thing. **Let's connect and build something awesome!** 🌟
 
 <hr>
 
-<h3 align="left">✨ Random Dev Quote::</h3>
+<h3 align="left">💡 Brain Fuel (Random Quote):</h3>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
@@ -29,45 +29,45 @@ Love talking about tech, open source, or impactful products? **Let’s connect!*
 
 <hr>
 
-<img align="right" height="250" width="375" alt="" src="./assets/coder.gif" />
+<img align="right" height="250" width="375" alt="Coding vibe" src="./assets/coder.gif" />
 
-### A little about me
+### What I'm up to...
 
-- 🛠 Currently working with **Flutter, TypeScript, and Rust**
-- 🚀 Exploring the world of **DevOps and modern infrastructure**
-- 📫 Reach me at: **[rantoandrianandraina@gmail.com](mailto:rantoandrianandraina@gmail.com)**
+- 🛠 **Current Sprint:** Deep diving into **Rust** and mastering cross-platform magic with **Flutter**.
+- 🚀 **Leveling up:** Exploring **DevOps** and modern infra to make deployments seamless.
+- 📫 **Ping me:** **[rantoandrianandraina@gmail.com](mailto:rantoandrianandraina@gmail.com)** — my inbox is always open for bold ideas.
 
-### Things I Enjoy
+### Beyond the Code
 
-- 💻 Exploring new technologies and building interesting projects
-- 📰 Reading, writing, and watching tech content
-- 🍕 Participating in **meetups, hackathons, and tech events**
-
----
-
-### Languages and Tools
-
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png" alt="rust"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" alt="sass"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="typescript"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="react"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="flutter"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="nodejs"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" alt="java"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="docker"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="linux"></code>
+- 💻 Hunting for the next "Game Changer" on **Product Hunt** and **Hacker News**.
+- 🍕 Fueling up at **Hackathons** and local tech meetups.
+- 📰 Writing, reading, and constantly learning to stay ahead of the curve.
 
 ---
 
-### Projects & Development Activity
+### My Stack & Toolbox 🛠️
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png" alt="rust"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" alt="sass"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="typescript"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="react"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="flutter"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="nodejs"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="docker"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="linux"></code>
+
+---
+
+### Product Activity 📊
 
 <details>
-  <summary><b>⚡ GitHub Contribution Graph</b></summary>
+  <summary><b>⚡ The Ship Log (Contribution Graph)</b></summary>
   <br />
   <a height="180em" href="https://ossinsight.io/analyze/ranto-dev">
     <picture>
       <source media="(prefers-color-scheme: dark)" 
-            srcset="https://github-readme-activity-graph.vercel.app/graph?username=ranto-dev&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranto-dev&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph"
+            srcset="https://github-readme-activity-graph.vercel.app/graph?username=ranto-dev&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Ship%20Activity">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranto-dev&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Ship%20Activity"
            width="95%" alt="Contribution Graph">
     </picture>
   </a>
 </details>
 
 <details>
-  <summary><b>🔥 GitHub Streak</b></summary>
+  <summary><b>🔥 Consistency (GitHub Streak)</b></summary>
   <br />
     <a height="180em" href="https://git.io/streak-stats">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=ranto-dev&theme=dark" alt="GitHub Streak" />
@@ -75,7 +75,7 @@ Love talking about tech, open source, or impactful products? **Let’s connect!*
 </details>
 
 <details>
-  <summary><b>📊 GitHub Stats</b></summary>
+  <summary><b>📊 Impact Stats</b></summary>
   <br />
   <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=166365779" target="_blank" style="display: block" align="center">
     <picture>
@@ -86,16 +86,15 @@ Love talking about tech, open source, or impactful products? **Let’s connect!*
 </details>
 
 <details>
-  <summary><b>⚙️ My Development Environment</b></summary>
+  <summary><b>⚙️ The Battlestation</b></summary>
   <br />
   <ul>
-    <li><b>Operating System:</b> Arch Linux</li>
-    <li><b>Browsers:</b> Firefox & Google Chrome</li>
-    <li><b>Terminal:</b> Zsh with Oh My Zsh</li>
-    <li><b>Code Editor:</b> Visual Studio Code</li>
-    <li><b>Development Tools:</b> Git, Docker, Insomnia, Postman</li>
-    <li><b>Tech Interests:</b> Full-Stack Development, Cross-Platform Apps, Open Source</li>
-    <li><b>Learning Sources:</b> Tech Communities, Product Hunt, Hacker News, YouTube</li>
+    <li><b>OS:</b> Arch Linux (I use Arch, btw 😉)</li>
+    <li><b>Browsers:</b> Firefox (Dev Edition) & Chrome</li>
+    <li><b>Terminal:</b> Zsh + Oh My Zsh (productivity on steroids)</li>
+    <li><b>IDE:</b> VS Code (with custom keybindings)</li>
+    <li><b>Dev Tools:</b> Docker, Git, Insomnia, Postman</li>
+    <li><b>Obsessions:</b> Full-Stack, Cross-Platform UI, Open Source, and Scalable Infra</li>
   </ul>
 </details>
 
@@ -103,6 +102,8 @@ Love talking about tech, open source, or impactful products? **Let’s connect!*
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Built with ❤️ and a lot of ☕️
+
+**Don't forget to drop a ⭐ if you find something you like!**
 
 </div>
