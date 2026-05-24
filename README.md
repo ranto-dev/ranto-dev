@@ -1,23 +1,24 @@
 ## Hey! 👋 I'm [Ranto](https://ranto-dev.vercel.app)
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100092317658006)
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ranto-dev.vercel.app)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100092317658006) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aina-iarindranto) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ranto-dev.vercel.app)
 
-### Engineering high-impact digital products. From "What if?" to production. ⚡
+### Engineering scalable digital experiences — from idea to production. ⚡
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ranto-dev&label=Daily%20Visitors&color=0e75b6&style=flat" alt="ranto-dev" />
 </p>
 
-I am a Software Engineer obsessed with building high-performance, scalable digital experiences. Moving fluidly across **Web, Mobile, and Desktop ecosystems**, I don't just write code — **I build products that solve real-world problems.** 🚀
+I’m a Software Engineer passionate about building fast, scalable, and impactful digital products across Web, Mobile, and Desktop platforms.
 
-Driven by clean architecture, pixel-perfect UX, and a strict adherence to the Silicon Valley mantra: _"Move fast, build things that scale, and iterate relentlessly."_ ☕️
+More than writing code, I focus on engineering experiences that solve real-world problems with clean architecture, thoughtful UX, and production-grade reliability. 🚀
 
-My daily stack centers around **TypeScript, Python, Flutter, and React**. I thrive on taking complex concepts from a napkin sketch to robust, production-ready, end-to-end solutions.
+My core stack revolves around **TypeScript, Python, Flutter, and React**, with a strong interest in system design, developer tooling, and modern software architecture.
+
+I enjoy turning ambitious ideas into polished, end-to-end products — from the first prototype to scalable production systems.
 
 > "The best way to predict the future is to ship it."
 
-Always open to discussing open-source ecosystems, disruptive tech, or how we can engineer the next big thing. **Let’s connect and deploy some magic!** 🌟
+Always open to discussing open source, emerging technologies, product engineering, and ambitious ideas. 🌟
 
 ---
 
@@ -31,30 +32,31 @@ Always open to discussing open-source ecosystems, disruptive tech, or how we can
 
 <img align="right" height="250" width="375" alt="Coding vibe" src="./assets/coder.gif" />
 
-### Current Roadmap & Focus
+### Current Focus & Roadmap
 
-- 🛠 **In the Trenches:** Deep-diving into **Rust** concurrency and mastering cross-platform performance with **Flutter**.
-- 🚀 **Scaling Up:** Expanding my expertise in **DevOps** and modern cloud infrastructure to architect seamless CI/CD pipelines.
-- 📫 **Get in Touch:** **[rantoandrianandraina@gmail.com](mailto:rantoandrianandraina@gmail.com)** — my inbox is open for bold ideas, partnerships, and tech talk.
+- 🛠 Exploring **Rust** for high-performance systems and deeper concurrency patterns.
+- 🚀 Expanding my expertise in **DevOps, cloud infrastructure, and scalable deployment workflows**.
+- ⚡ Building cross-platform applications with a strong focus on performance, maintainability, and developer experience.
+- 📫 Reach me at **[rantoandrianandraina@gmail.com](mailto:rantoandrianandraina@gmail.com)** — always open to collaboration, innovative projects, and tech discussions.
 
 ### Beyond the Terminal
 
-- 💻 Scouting tomorrow's tech trends on **Product Hunt** and **Hacker News**.
-- 🍕 Competing in **Hackathons** and contributing to local developer communities.
-- 📰 Constantly learning, writing, and hacking to stay ahead of the curve.
+- 💻 Exploring emerging technologies through platforms like Product Hunt and Hacker News.
+- 🏗 Participating in hackathons, side projects, and developer communities.
+- 📚 Constantly learning, experimenting, and refining my craft as an engineer.
 
 ---
 
-### Tech Stack & Arsenal 🛠️
+### Core Technologies & Tools 🛠️
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png" alt="rust"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" alt="sass"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="typescript"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="react"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="flutter"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="nodejs"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="docker"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="linux"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png" alt="rust"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="typescript"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="react"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/flutter/flutter.png" alt="flutter"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="nodejs"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="python"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="docker"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="git"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" alt="linux"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" alt="sass"></code>
 
 ---
 
-### Production Metrics 📊
+### Engineering Activity 📊
 
 <details>
-  <summary><b>⚡ The Ship Log (Contribution Graph)</b></summary>
+  <summary><b>⚡ Contribution Graph</b></summary>
   <br />
   <a height="180em" href="https://ossinsight.io/analyze/ranto-dev">
     <picture>
@@ -67,15 +69,15 @@ Always open to discussing open-source ecosystems, disruptive tech, or how we can
 </details>
 
 <details>
-  <summary><b>🔥 Consistency (GitHub Streak)</b></summary>
+  <summary><b>🔥 GitHub Streak</b></summary>
   <br />
-    <a height="180em" href="https://git.io/streak-stats">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=ranto-dev&theme=dark" alt="GitHub Streak" />
-    </a>
+  <a height="180em" href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=ranto-dev&theme=dark" alt="GitHub Streak" />
+  </a>
 </details>
 
 <details>
-  <summary><b>📊 Impact Stats</b></summary>
+  <summary><b>📊 OSS Insight Stats</b></summary>
   <br />
   <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=166365779" target="_blank" style="display: block" align="center">
     <picture>
@@ -89,12 +91,12 @@ Always open to discussing open-source ecosystems, disruptive tech, or how we can
   <summary><b>⚙️ Ecosystem & Environment</b></summary>
   <br />
   <ul>
-    <li><b>Host OS:</b> Arch Linux (I use Arch, btw 😉)</li>
-    <li><b>Browsers:</b> Firefox (Dev Edition) & Chrome</li>
-    <li><b>Terminal setup:</b> Zsh + Oh My Zsh (Optimized for velocity)</li>
-    <li><b>Core IDE:</b> VS Code (Highly customized workflow)</li>
-    <li><b>Tooling:</b> Docker, Git, Insomnia, Postman</li>
-    <li><b>Core Interests:</b> Full-Stack Architecture, Cross-Platform Engineering, Open Source & Scalable Infrastructure</li>
+    <li><b>OS:</b> Arch Linux</li>
+    <li><b>Terminal:</b> Zsh + Oh My Zsh</li>
+    <li><b>Editors:</b> VS Code & Neovim</li>
+    <li><b>Tooling:</b> Docker, Git, Postman, Insomnia</li>
+    <li><b>Browsers:</b> Firefox Developer Edition & Chrome</li>
+    <li><b>Interests:</b> Full-Stack Engineering, System Design, Cross-Platform Development, Open Source, and Scalable Infrastructure</li>
   </ul>
 </details>
 
@@ -102,8 +104,8 @@ Always open to discussing open-source ecosystems, disruptive tech, or how we can
 
 <div align="center">
 
-### Built with ❤️ and a lot of ☕️
+### Built with ❤️, caffeine, and countless debugging sessions.
 
-**Drop a ⭐ if you resonate with the vision!**
+If you like what I build, feel free to drop a ⭐️
 
 </div>
