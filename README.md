@@ -50,17 +50,6 @@
 - 📚 **Endless Loop:** Constantly learning, experimenting, and refining my craft as an engineer.
 
 <br>
-<h3 align="left">Let's Connect:</h3>
-<div style="display: flex; justify-content: left; align-items: center; gap: 15px;">
-
-<a href="https://linkedin.com/in/aina-iarindranto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranto-dev linkedin" width="40" /></a>
-
-<a href="https://fb.com/profile.php?id=100092317658006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ranto facebook" width="40" /></a>
-
-<a href="https://ranto-dev.vercel.app" target="blank"><img align="center" src="https://skillicons.dev/icons?i=vercel" alt="ranto-dev portfolio" width="40" /></a>
-
- </div>
-<br>
 
 <h3 align="left">My Power Grid & Weapons of Choice:</h3>
 
@@ -99,7 +88,7 @@
   </a>
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<br>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love meeting visionary people.</b> Whether you want to talk shop, brainstorm an idea, or just say hi, <b>my virtual door is always open!</b> ☕️</em>
 
