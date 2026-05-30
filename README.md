@@ -10,9 +10,11 @@
   Always exploring new stacks, hacking on side projects, and moving fast to bring bold ideas to life. Let's build something the world actually wants to use! ⚡
 </p>
 
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=ranto-dev&label=Daily%20Visitors&color=0e75b6&style=flat" alt="ranto-dev" /> 
+<!--
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=ranto-dev&label=Daily%20Visitors&color=0e75b6&style=flat" alt="ranto-dev" />
 </p>
+-->
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" />
