@@ -1,6 +1,6 @@
 ![logo](./assets/banner.jpg)
 
-<h1 align="center">Hi 👋, I'm Ranto</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://ranto-dev.vercel.app">Ranto</a></h1>
 <h3 align="center">Full-Stack Engineer & Product Builder from Madagascar 🇲🇬</h3>
 
 <p align="center">
@@ -91,6 +91,3 @@
 <br>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love meeting visionary people.</b> Whether you want to talk shop, brainstorm an idea, or just say hi, <b>my virtual door is always open!</b> ☕️</em>
-
-<br>
-<p align="right" > Shipped with 🧡 by <a href="http://ranto-dev.vercel.app">ranto andrianandraina</a></p>
