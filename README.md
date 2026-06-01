@@ -50,37 +50,37 @@
 
 <br>
 
-<h3 align="left">My Power Grid & Weapons of Choice:</h3>
+<h3 align="left">Tech Stack & Tools</h3>
 
-- **Backend & AI Engine**
+- **Backend & AI**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,java,nodejs,express,nestjs,py,fastapi,tensorflow,scikitlearn,pytorch" />
   </a>
 </p>
 
-- **Frontend & UI Experiences**
+- **Frontend & Mobile**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,react,vuejs,tailwind,flutter" />
   </a>
 </p>
 
-- **Data Stores**
+- **Databases**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
   </a>
 </p>
 
-- **Cloud, Systems & DevOps**
+- **Cloud & DevOps**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,vercel" />
   </a>
 </p>
 
-- **Daily Toolbox**
+- **Development Tools**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,linux" />
