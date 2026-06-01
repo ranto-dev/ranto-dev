@@ -4,10 +4,7 @@
 <h3 align="center">Full-Stack Engineer & Product Builder from Madagascar 🇲🇬</h3>
 
 <p align="center">
-  I’m completely obsessed with how technology shapes the future. Early on, watching the tech ecosystem explode made me realize one thing: I didn't just want to use software, I wanted to build it. Today, I turn complex, messy problems into clean, high-performance digital products. 🚀
-</p>
-<p align="center">
-  Always exploring new stacks, hacking on side projects, and moving fast to bring bold ideas to life. Let's build something the world actually wants to use! ⚡
+  I’m completely obsessed with how technology shapes the future. Early on, watching the tech ecosystem explode made me realize one thing: I didn't just want to use software, I wanted to build it. Today, I turn complex, messy problems into clean, high-performance digital products, always exploring new stacks, hacking on side projects, and moving fast to bring bold ideas to life. Let's build something the world actually wants to use! 🚀⚡
 </p>
 
 <!--
