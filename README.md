@@ -29,22 +29,16 @@
 <br><br>
 
 - 🔭 **The Next Mission:** Open to exciting new roles and ready to make an impact in a fast-paced team!
-
 - 🌱 **Current Sprint:** Deep diving into **DevOps, cloud infrastructure, and highly scalable deployment workflows**. Because scaling is sexy.
-
 - 💬 **Let's talk tech:** Hit me up about **Java, Python, TypeScript, and Node.js** — always down to talk architecture.
-
-- 📫 **Direct Line:** Drop me a message at **[rantoandrianandraina@gmail.com](mailto:rantoandrianandraina@gmail.com)**.
-
+- 🏗 **The Hustle:** Addicted to hackathons, open-source communities, and shipping side projects.
 - 💻 **Signal Noise:** Constantly hunting for disruptive tools on **Product Hunt** and **Hacker News**.
 
-- 🏗 **The Hustle:** Addicted to hackathons, open-source communities, and shipping side projects.
-
-- 📚 **Endless Loop:** Constantly learning, experimenting, and refining my craft as an engineer.
+<br clear="right">
 
 <br>
 
-<h3 align="left">Tech Stack & Tools</h3>
+<h3 align="left">🛠 Tech Stack & Tools</h3>
 
 - **Backend & AI**
 <p align="left">
