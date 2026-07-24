@@ -31,22 +31,37 @@
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50"/>
 </div>
 
-## 🚀 Current Work
+## ⚡ Current Work
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 🔥 FlowOps — Intelligent Low-Code CI/CD Platform
+#### FlowOps `[Active / In Progress]`
 
-I'm currently building **FlowOps**, an intelligent **Low-Code/No-Code CI/CD platform** that simplifies the creation, deployment, and monitoring of GitHub Actions workflows.
+> **Workflow Orchestration & Automation**
 
-FlowOps combines **DevOps**, **AI**, and **MLOps** to help developers design pipelines visually, predict execution failures, optimize workflow performance, and automate software delivery.
+- 💡 **In a nutshell:** An intelligent **Low-Code CI/CD platform** that simplifies the creation, deployment, and monitoring of GitHub Actions workflows.
+- 🛠️ **Tech Stack:** `Docker` • `Python` • `MLFlow` • `FastAPI` • `Typescript` • `React`
+- 🔗 **Repository:** [👉 github.com/ranto-dev/FlowOps](https://github.com/ranto-dev/FlowOps)
 
-### 👨‍💻 About Me
+#### Kilalao `[Active / In Progress]`
 
-- 🚀 **Currently Building** - **FlowOps**, intelligent, modern web platforms, and open-source projects.
-- 🌱 **Currently Learning** - DevOps, MLOps, Kubernetes, and scalable software architecture.
-- 💬 **Ask Me About** - Full-Stack Development, AI Integration, Python, TypeScript, React, FastAPI, and Rust.
-- ⚡ **Passionate About** - Clean architecture, developer experience, performance optimization, and solving real-world problems through technology.
+> **Interactive & Gamified Platform**
+
+- 💡 **In a nutshell:** An engaging application built to make learning interactive through immersive game mechanics and an intuitive user experience.
+- 🛠️ **Tech Stack:** `Typescript` • `React` • `JSON`
+- 🔗 **Repository:** [👉 github.com/ranto-dev/kilalao](https://github.com/ranto-dev/Kilalao)
+
+## 👋 About Me
+
+I’m a passionate **Software Engineer** dedicated to building scalable applications, optimizing workflows, and creating engaging user experiences. I love tackling complex problems and turning innovative ideas into clean, efficient code.
+
+- 🚀 **Currently building:** [FlowOps](https://github.com/ranto-dev/FlowOps) & [Kilalao](https://github.com/ranto-dev/kilalao)
+- 💡 **Interested in:** DevOps, Full-Stack Development & AI Integration
+- 🎯 **Goal:** Continuously learning, sharing knowledge, and contributing to impactful open-source projects
+- 💬 **Ask me about:** Full-Stack Development, AI Integration, Python, TypeScript, React, FastAPI, Flutter, and Rust.
+- 📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/aina-iarindrano) | [Email](mailto:rantoandrianandraina@gmail.com)
+
+---
 
 <br clear="right"/>
 
