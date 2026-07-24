@@ -1,77 +1,20 @@
-![logo](./assets/banner.jpg)
+<p align="center">
+<div align="center">
+ <a href="https://github.com/ranto-dev"> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranto-dev&theme=algolia" width="100%" /> </br></br>
 
-<h1 align="center">Hi 👋, I'm <a href="https://ranto-dev.vercel.app">Ranto</a></h1> <h3 align="center">Full-Stack Developer & AI Integration Engineer from Madagascar 🇲🇬</h3>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ranto-dev&theme=algolia" width="31%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ranto-dev&theme=algolia" width="31%" align="right" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ranto-dev&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
+</br></br>
+ </a>
+<a href="https://github.com/ranto-dev"> 
+ <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution sts" width="%" /></br></br>
+  </a>
 
-<p align="center"> I build modern web applications, intelligent automations, and AI-powered solutions that solve real-world problems. Passionate about creating scalable products, I enjoy exploring new technologies, shipping high-quality software, and turning ideas into impactful digital experiences. 🚀 </p>
+</br>
+<a href="https://github.com/ranto-dev">
+<img align="center"  width="100%" src="https://s01.flagcounter.com/countxl/DP79/bg_01102D/txt_6EB9F2/border_01102D/columns_8/maxflags_250/viewers_++Unique+Views+Per+Country+since+25+Mai+2025/labels_1/page_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50"/>
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50"/>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50"/>
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50"/>
 </div>
-
-<br>
-
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50"/>
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50"/>
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50"/>
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50"/>
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50"/>
-</div>
-
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br><br>
-
-- 🔭 **Open to Work:** Looking for opportunities to build impactful products and solve real-world challenges.
-- 🌱 **Currently Learning:** DevOps, cloud infrastructure, AI integration, and scalable software architecture.
-- 💬 **Ask Me About:** Full-Stack Development, AI Automation, Python, TypeScript, React, Node.js, and Flutter.
-- 🚀 **Building:** Web applications, AI-powered workflows, automation systems, and open-source projects.
-- ⚡ **Always Exploring:** New technologies, developer tools, and innovative ideas to build better software.
-
-<br clear="right">
-
-<br>
-
-<h3 align="left">🛠 Tech Stack & Tools</h3>
-
-- **Backend & AI**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,java,nodejs,express,nestjs,py,fastapi,tensorflow,scikitlearn,pytorch" />
-  </a>
-</p>
-
-- **Frontend & Mobile**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,vuejs,tailwind,flutter" />
-  </a>
-</p>
-
-- **Databases**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-  </a>
-</p>
-
-- **Cloud & DevOps**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,vercel" />
-  </a>
-</p>
-
-- **Development Tools**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,linux" />
-  </a>
-</p>
-
-<br>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'm always open to connecting with developers, founders, and tech enthusiasts.</b> Whether you'd like to discuss a project, AI, software engineering, or simply say hello, feel free to reach out! 🚀</em>
+</p >
