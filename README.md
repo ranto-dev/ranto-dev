@@ -61,13 +61,8 @@ I’m a passionate **Software Engineer** dedicated to building scalable applicat
 - 💬 **Ask me about:** Full-Stack Development, AI Integration, Python, TypeScript, React, FastAPI, Flutter, and Rust.
 - 📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/aina-iarindrano) | [Email](mailto:rantoandrianandraina@gmail.com)
 
----
 
-<br clear="right"/>
-
----
-
-<h3 align="left">🛠 Tech Stack & Tools</h3>
+## 🛠 Tech Stack & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -79,9 +74,7 @@ I’m a passionate **Software Engineer** dedicated to building scalable applicat
   </a>
 </p>
 
----
-
-<h3 align="left">📈 More Stats</h3>
+## 📈 More Stats
 
 <div align="center">
     <a href="https://github.com/ranto-dev"> 
