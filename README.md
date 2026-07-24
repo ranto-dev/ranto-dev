@@ -8,9 +8,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ranto-dev&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
 </br></br>
  </a>
-<a href="https://github.com/ranto-dev"> 
- <img src="./profile-3d-contrib/profile-night-view.svg" alt="Contribution sts" width="%" /></br></br>
-  </a>
+ 
 
 </br>
 
