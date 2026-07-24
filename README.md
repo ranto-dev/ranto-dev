@@ -13,8 +13,6 @@
   </a>
 
 </br>
-<a href="https://github.com/ranto-dev">
-<img align="center"  width="100%" src="https://s01.flagcounter.com/countxl/DP79/bg_01102D/txt_6EB9F2/border_01102D/columns_8/maxflags_250/viewers_++Unique+Views+Per+Country+since+25+Mai+2025/labels_1/page_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 </div>
 </p >
