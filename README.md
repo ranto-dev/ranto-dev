@@ -67,7 +67,7 @@ I’m a passionate **Software Engineer** dedicated to building scalable applicat
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=rust,java,nodejs,express,nestjs,py,fastapi,tensorflow,scikitlearn,pytorch" />
-    <img src="https://skillicons.dev/icons?i=ts,js,react,vuejs,tailwind,flutter" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,vuejs,tailwind" />
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
     <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,vercel" />
     <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,linux" />
