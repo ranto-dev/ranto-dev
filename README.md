@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ranto
+# Aina Iarindranto
 
 **Full-Stack Developer · AI Integration Engineer**
 
@@ -37,8 +37,7 @@ Basé à Madagascar 🇲🇬
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,fastapi,ts,js,react,nodejs,rust,java&perline=8" /><br>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,docker,aws,githubactions,linux,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,ts,js,react,nodejs,rust,java,postgresql,mongodb,docker,aws,githubactions,linux,git" /><br>
 </p>
 
 ## Stats
